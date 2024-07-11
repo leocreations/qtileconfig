@@ -1,0 +1,44 @@
+2024-07-10 21:17:57.968 [info] Log level: Info
+2024-07-10 21:17:57.968 [info] Validating found git in: "git"
+2024-07-10 21:17:57.968 [info] Using git "2.45.2" from "git"
+2024-07-10 21:17:57.968 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-10 21:17:57.968 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-07-10 21:17:57.968 [info] Open repository: /home/leo/Development/React-Native/curso-react-native-metacritic-app
+2024-07-10 21:17:57.969 [info] > git config --get commit.template [6ms]
+2024-07-10 21:17:58.027 [info] > git rev-parse --show-toplevel [60ms]
+2024-07-10 21:17:58.074 [info] No remotes found in the git config file.
+2024-07-10 21:17:58.094 [info] > git rev-parse --show-toplevel [14ms]
+2024-07-10 21:17:58.094 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2024-07-10 21:17:58.095 [warning] No such branch: master.
+2024-07-10 21:17:58.104 [info] > git status -z -uall [3ms]
+2024-07-10 21:17:58.136 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
+2024-07-10 21:17:58.136 [warning] No such branch: master.
+2024-07-10 21:17:58.139 [info] > git config --get commit.template [9ms]
+2024-07-10 21:17:58.151 [info] No remotes found in the git config file.
+2024-07-10 21:17:58.152 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-10 21:17:58.152 [warning] No such branch: master.
+2024-07-10 21:17:58.166 [info] > git status -z -uall [4ms]
+2024-07-10 21:17:58.179 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-07-10 21:17:58.179 [warning] No such branch: master.
+2024-07-10 21:17:58.463 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-10 21:17:58.488 [info] > git show --textconv :App.js [6ms]
+2024-07-10 21:17:58.489 [info] > git ls-files --stage -- /home/leo/Development/React-Native/curso-react-native-metacritic-app/App.js [1ms]
+2024-07-10 21:17:58.496 [info] > git cat-file -s 09f879b827723c4435efb850d1508024272bd2fd [1ms]
+2024-07-10 21:18:19.548 [info] > git show --textconv :.eslintrc.js [5ms]
+2024-07-10 21:18:19.548 [info] > git ls-files --stage -- /home/leo/Development/React-Native/curso-react-native-metacritic-app/.eslintrc.js [1ms]
+2024-07-10 21:19:58.387 [info] > git show --textconv :.eslintrc.js [4ms]
+2024-07-10 21:19:58.388 [info] > git ls-files --stage -- /home/leo/Development/React-Native/curso-react-native-metacritic-app/.eslintrc.js [1ms]
+2024-07-10 21:21:07.119 [info] No remotes found in the git config file.
+2024-07-10 21:21:07.119 [info] > git config --get commit.template [5ms]
+2024-07-10 21:21:07.119 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-10 21:21:07.119 [warning] No such branch: master.
+2024-07-10 21:21:07.124 [info] > git status -z -uall [1ms]
+2024-07-10 21:21:07.131 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-10 21:21:07.131 [warning] No such branch: master.
+2024-07-10 21:21:12.143 [info] No remotes found in the git config file.
+2024-07-10 21:21:12.144 [info] > git config --get commit.template [4ms]
+2024-07-10 21:21:12.144 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-10 21:21:12.144 [warning] No such branch: master.
+2024-07-10 21:21:12.148 [info] > git status -z -uall [1ms]
+2024-07-10 21:21:12.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-07-10 21:21:12.153 [warning] No such branch: master.

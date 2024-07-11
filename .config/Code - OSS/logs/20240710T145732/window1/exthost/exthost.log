@@ -1,0 +1,17 @@
+2024-07-10 14:57:33.314 [info] Extension host with pid 1911 started
+2024-07-10 14:57:33.314 [info] Skipping acquiring lock for /home/leo/.config/Code - OSS/User/workspaceStorage/5361168060ee037e522a31d3ac66e715.
+2024-07-10 14:57:33.454 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-10 14:57:33.509 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-10 14:57:33.550 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-10 14:57:33.568 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-10 14:57:33.602 [info] Eager extensions activated
+2024-07-10 14:57:33.638 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-10 14:57:33.641 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-10 14:57:33.646 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-07-10 14:57:33.656 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-07-10 15:10:48.206 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-07-10 15:10:48.210 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-07-10 15:10:48.216 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-07-10 15:10:48.231 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-07-10 15:15:20.338 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-10 15:15:20.345 [info] Extension host with pid 1911 exiting with code 0

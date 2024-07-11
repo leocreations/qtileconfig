@@ -1,0 +1,21 @@
+# Env vars
+export PATH=$HOME/.local/bin:$PATH
+export _JAVA_AWT_WM_NONREPARENTING=1
+export QT_STYLE_OVERRIDE=kvantum 
+
+
+# Composer
+picom &
+# Network
+# nm-applet &
+# Keyboard Layout
+setxkbmap es &
+# Automount Devices
+udiskie -t &
+# Java Fonts
+# xsettingsd &
+# Wallpaper
+feh --bg-scale  ~/Downloads/wallapper.jpg
+# Overlay Bar
+xob-pulse-py | xob -s pulse &
+xob-brightness-js | xob -s brightness &

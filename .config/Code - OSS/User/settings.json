@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "'CaskaydiaCove Nerd Font'",
+    "editor.fontSize": 16,
+    "eslint.format.enable": true
+}
